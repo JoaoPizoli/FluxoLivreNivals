@@ -5,6 +5,5 @@ void main() {
   runApp(const AppFluxolivre());
 }
 
-//leonardo.scatolin@sou.unifeob.edu.br
-//https://github.com/leonardoscatolin
+
 
